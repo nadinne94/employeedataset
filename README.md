@@ -13,7 +13,7 @@ O trabalho foi realizado com o objetivo de investigar as variáveis que impactam
 * **[Código](https://github.com/nadinne94/employeedataset/blob/main/SQLQuery1.sql)**
 * **[Artigo](https://www.linkedin.com/pulse/explorando-for%2525C3%2525A7a-de-trabalho-an%2525C3%2525A1lise-dados-sql-server-cavalcante%3FtrackingId=n24lA2JASMmn3PeYLNCCEg%253D%253D/?trackingId=n24lA2JASMmn3PeYLNCCEg%3D%3D)**
 
- ## Let's Connect
+## Contato
 <div>
   <a href="https://www.linkedin.com/in/nadinne-cavalcante/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
